@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/// This is the main entry point of the application.
 void main() {
   runApp(const MyApp());
 }
